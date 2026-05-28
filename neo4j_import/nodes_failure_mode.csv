@@ -1,0 +1,8 @@
+entityId:ID,name,entityType,detectTime,:LABEL
+F013,极片边缘析锂,失效模式,检测时机:"充电后拆解",FailureMode
+F014,负极尾部两折边缘析锂,失效模式,检测时机:"循环后拆解",FailureMode
+F015,极耳胶纸边缘析锂,失效模式,检测时机:"循环后拆解",FailureMode
+F018,OH边缘析锂,失效模式,检测时机:"充电后拆解",FailureMode
+F019,极耳位极片边缘月牙形析锂,失效模式,检测时机:"循环后拆解",FailureMode
+F023,负极单双面交界处析锂,失效模式,检测时机:"循环后拆解",FailureMode
+F034,叠片顶部极耳位边缘析锂,失效模式,检测时机:"充电后拆解",FailureMode
