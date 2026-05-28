@@ -1,4 +1,4 @@
-:START_ID,:END_ID,:TYPE,influence
+:START_ID,:END_ID,:TYPE,description
 P113,F013,DIRECTLY_AFFECTS,NP比不足直接导致极片边缘析锂风险
 P113,F014,DIRECTLY_AFFECTS,NP比不足时尾部两折区域更易析锂
 P113,F015,DIRECTLY_AFFECTS,NP比不足时胶纸边缘区域析锂风险增大

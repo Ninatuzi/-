@@ -1,0 +1,8 @@
+:START_ID,:END_ID,:TYPE,description
+M001,M024,EVOLVES_TO,过电位不足引发的析锂进一步演化为枝晶生长
+M002,M001,CAUSES,局部电流密度集中导致局部过电位不足
+M024,M039,CONTRIBUTES,枝晶生长伴随SEI破裂产生分解产物堆积
+M005,M015,CONTRIBUTES,SEI持续生长消耗电解液加速电解液耗尽
+M011,M020,CONTRIBUTES,体积膨胀产生的应力在边缘区域形成内应力集中
+M003,M001,CONTRIBUTES,扩散受限使表面锂离子浓度降低加剧过电位不足
+M040,M001,CONTRIBUTES,浓度极化使负极表面电位下降加剧过电位不足

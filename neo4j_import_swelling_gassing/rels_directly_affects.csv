@@ -1,4 +1,4 @@
-:START_ID,:END_ID,:TYPE,influence
+:START_ID,:END_ID,:TYPE,description
 P029,F043,DIRECTLY_AFFECTS,硅含量高直接导致常温循环膨胀加剧
 P029,F044,DIRECTLY_AFFECTS,硅含量高直接导致高温循环膨胀加剧
 P029,F045,DIRECTLY_AFFECTS,硅含量高直接导致循环变形

@@ -1,4 +1,5 @@
 entityId:ID,name,entityType,detectTime,:LABEL
+F_FRAC,机械断裂,失效模式(大类),一级分类,FailureMode
 F042,极耳断裂,失效模式,检测时机:"振动测试",FailureMode
 F060,正极辊压断带,失效模式,检测时机:"辊压过程",FailureMode
 F061,负极辊压断带,失效模式,检测时机:"辊压过程",FailureMode

@@ -1,4 +1,5 @@
 entityId:ID,name,entityType,detectTime,:LABEL
+F_EDGE,边缘析锂,失效模式(大类),一级分类,FailureMode
 F013,极片边缘析锂,失效模式,检测时机:"充电后拆解",FailureMode
 F014,负极尾部两折边缘析锂,失效模式,检测时机:"循环后拆解",FailureMode
 F015,极耳胶纸边缘析锂,失效模式,检测时机:"循环后拆解",FailureMode

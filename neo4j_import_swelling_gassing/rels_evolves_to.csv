@@ -1,0 +1,11 @@
+:START_ID,:END_ID,:TYPE,description
+M012,M037,CAUSES,界面副反应产气直接导致压力积累
+M022,M037,CAUSES,电解液热分解产气直接导致压力积累
+M027,M037,CAUSES,电解液氧化分解产气直接导致压力积累
+M028,M037,CONTRIBUTES,电解液还原分解产气贡献于压力积累
+M006,M027,CONTRIBUTES,正极催化氧化促进电解液氧化分解
+M021,M006,CONTRIBUTES,正极释氧加剧电解液氧化还原反应
+M016,M012,CONTRIBUTES,析锂产物反应产气贡献于界面产气
+M011,M020,CONTRIBUTES,体积膨胀产生的应力形成内应力集中
+M023,M012,CONTRIBUTES,SEI重构过程消耗电解液并产气
+M023,M028,EVOLVES_TO,SEI重构实质上是还原分解的再次发生

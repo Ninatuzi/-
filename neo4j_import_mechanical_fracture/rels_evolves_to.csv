@@ -1,0 +1,10 @@
+:START_ID,:END_ID,:TYPE,description
+M010,M009,CONTRIBUTES,铜箔溶解削弱材料强度加速疲劳断裂
+M011,M020,CONTRIBUTES,体积膨胀产生的内应力在极片中形成应力集中
+M011,M009,CONTRIBUTES,反复膨胀收缩等效于疲劳载荷加速断裂
+M018,M009,CONTRIBUTES,电化学腐蚀减薄铝箔降低疲劳寿命
+M019,M026,CAUSES,粘结剂失效直接导致集流体界面剥离
+M020,M009,CONTRIBUTES,内应力集中区域更容易萌生疲劳裂纹
+M025,M026,CONTRIBUTES,颗粒破碎使涂层松散促进界面剥离
+M026,M009,CONTRIBUTES,界面剥离使集流体暴露承受更大应力加速疲劳
+M032,M009,EVOLVES_TO,焊接疲劳最终演化为完全断裂
