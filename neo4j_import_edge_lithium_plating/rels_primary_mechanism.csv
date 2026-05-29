@@ -1,8 +1,0 @@
-:START_ID,:END_ID,:TYPE,description
-F013,M002,PRIMARY_MECHANISM,极片边缘电流密度集中是直线析锂的主要驱动
-F014,M020,PRIMARY_MECHANISM,两折区域内应力集中导致局部接触不良引发析锂
-F015,M002,PRIMARY_MECHANISM,胶纸边缘处电流密度突变是析锂主因
-F018,M002,PRIMARY_MECHANISM,OH区域对齐偏差导致局部电流密度过大
-F019,M002,PRIMARY_MECHANISM,极耳位几何突变导致电流密度集中形成月牙形析锂
-F023,M020,PRIMARY_MECHANISM,单双面交界处压实比突变导致应力集中引发析锂
-F034,M002,PRIMARY_MECHANISM,叠片顶部极耳位对齐偏差导致电流密度集中

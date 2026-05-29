@@ -1,16 +1,16 @@
 // ============================================================
-// 边缘析锂知识图谱 - Neo4j LOAD CSV 导入脚本
+// 机械断裂知识图谱 - Neo4j LOAD CSV 导入脚本
 //
 // 关系体系:
-//   F_EDGE --[HAS_SUBTYPE]--> 子失效
+//   F_FRAC --[HAS_SUBTYPE]--> 子失效
 //   机理   --[CAUSES]--> 失效 (主因)
 //   机理   --[CONTRIBUTES]--> 失效 (辅因)
 //   参数   --[INFLUENCES]--> 机理
 //   参数   --[DIRECTLY_AFFECTS]--> 失效
 //   机理   --[CAUSES|CONTRIBUTES|EVOLVES_TO]--> 机理 (机理间关系)
 //
-// 节点: 43个 (8 FailureMode + 11 Mechanism + 24 DesignParam)
-// 关系: 109条
+// 节点: 46个 (14 FailureMode + 9 Mechanism + 23 DesignParam)
+// 关系: 147条
 // ============================================================
 
 // -------- 1. 约束 --------
